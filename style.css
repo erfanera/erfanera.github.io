@@ -1,0 +1,12 @@
+body{
+    background-color: gray;
+}
+
+h1,h2,p{
+    text-align: center;
+    padding-top: 4rem;
+}
+
+.mybutton{
+    text-align: center;
+}
