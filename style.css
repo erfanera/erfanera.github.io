@@ -2,7 +2,7 @@ body{
     background-color: gray;
 }
 
-h1,h2,p{
+h1,h2,h3,p{
     text-align: center;
     padding-top: 4rem;
 }
